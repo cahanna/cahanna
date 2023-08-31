@@ -1,5 +1,5 @@
 
-// Christopher Hanna, CS110B
+// Christopher Hanna
 // A program for a user to input ages that responds back.
 
 #include <iostream>
